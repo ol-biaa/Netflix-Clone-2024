@@ -23,10 +23,10 @@ const Header = () => {
         </div>
         <div className="header-right">
             <ul>
-                <li>SearchIcon</li>
-                <li>NotificationsOutlinedIcon</li>
-                <li>AccountBoxIcon</li>
-                <li>ArrowDropDownIcon</li>
+                <li><SearchIcon /></li>
+                <li><NotificationsOutlinedIcon /></li>
+                <li><AccountBoxIcon /></li>
+                <li><ArrowDropDownIcon /></li>
 
             </ul>
         </div>

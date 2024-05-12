@@ -33,3 +33,9 @@
     justify-content: space-between;
 }
 
+.header-right ul{
+    width: 140%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
